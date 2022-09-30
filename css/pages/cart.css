@@ -12,3 +12,26 @@
     padding: 20px;
 
 }
+
+.cart section div b{
+    font-size: var(--fs-lg) ;
+}
+
+.cart section input[type=checkbox] {
+    height: 13px;
+    width: 13px;
+    vertical-align: top;
+    position: relative;
+    bottom: -2px;
+}
+
+.cart section select{
+    height: 29px;
+    width: 77px;
+    background-color: var(--gray);
+    font-size: var(--fs-sm);
+    text-align: center;
+    font-weight: 4px;
+
+
+}

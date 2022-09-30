@@ -62,3 +62,11 @@
     border-bottom: solid var(--gray);
 
 }
+
+.green{
+    color: var(--green);
+}
+
+.green-dark {
+    color: var(--green-dark);
+}
