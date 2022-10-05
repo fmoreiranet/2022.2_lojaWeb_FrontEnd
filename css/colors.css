@@ -97,4 +97,52 @@
 
 .fs-xl{
     font-size: var(--fs-xl);   
-}    
+}
+
+.orange{
+    color: var(--orange);
+}
+
+.orange-dark{
+    color: var(--orange-dark);
+}
+
+.bg-orange{
+    background-color: var(--orange);
+}
+
+.bg-orange-dark{
+    background-color: var(--orange-dark);
+}
+
+.bd-orange{
+    border-color: var(--orange);
+}
+
+.bd-orange-dark{
+    border-color: var(--orange-dark);
+}
+
+.red-bld{
+    color: var(--red-bld);
+}
+
+.bg-red-bld{
+    background-color: var(--red-bld);
+}
+
+.bd-red-bld{
+    border-color: var(--red-bld);
+}
+
+.yellow {
+    color: var(--yellow);
+}
+
+.bg-yellow{
+    background-color: var(--yellow);
+}
+
+.bd-yellow{
+    border-color: var(--yellow);
+}
